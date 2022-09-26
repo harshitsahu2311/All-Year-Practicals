@@ -33,7 +33,7 @@ This program may be done using functions
 
 8. WAP to create a list of the cubes of only the even integers appearing in the input list (may have elements of other types also) using the following:
 
-## OPERATING SYSTEM
+## OPERATING SYSTEM PRACTICALS
 
 1. Write a program (using fork() and/or exec() commands) where parent and child execute: 
 - same program, same code. 
@@ -55,3 +55,11 @@ where file name is given as argument.
 12. Write a program to calculate sum of n numbers using thread library.
 13. Write a program to implement first-fit, best-fit and worst-fit allocation strategies.
 
+## COMPUTER NETWORKS PRACTICALS
+
+1. Simulate Cyclic Redundancy Check (CRC) error detection algorithm for noisy channel.
+2. Simulate and implement stop and wait protocol for noisy channel.
+3. Simulate and implement go back n sliding window protocol.
+4. Simulate and implement selective repeat sliding window protocol.
+5. Simulate and implement distance vector routing algorithm
+6. Simulate and implement Dijkstra algorithm for shortest path routing.
