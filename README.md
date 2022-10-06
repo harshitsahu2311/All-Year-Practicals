@@ -48,10 +48,10 @@ distance to calculate the distance between any two point objects.
 11. Write a function that prints a dictionary where the keys are numbers between 1 and 5 and the values are cubes of the keys.
 
 12. Consider a tuple t1=(1, 2, 5, 7, 9, 2, 4, 6, 8, 10). WAP to perform following operations:
-a) Print half the values of the tuple in one line and the other half in the next line.
-b) Print another tuple whose values are even numbers in the given tuple.
-c) Concatenate a tuple t2=(11,13,15) with t1.
-d) Return maximum and minimum value from this tuple
+- Print half the values of the tuple in one line and the other half in the next line.
+- Print another tuple whose values are even numbers in the given tuple.
+- Concatenate a tuple t2=(11,13,15) with t1.
+- Return maximum and minimum value from this tuple
 
 13. WAP to accept a name from a user. Raise and handle appropriate exception(s) if the text
 entered by the user contains digits and/or special characters.
