@@ -1,4 +1,12 @@
-# 2nd-Years-Practicals
+# All-Years-Practicals
+
+## ARTIFICIAL INTELLIGENCE PRACTICALS
+
+1. Write a prolog program to calculate the sum of two numbers.
+2. Write a Prolog program to implement max(X, Y, M) so that M is the maximum of two 
+numbers X and Y.
+3. Write a program in PROLOG to implement factorial (N, F) where F represents the 
+factorial of a number N.
 
 ## PYTHON PRACTICALS
 
